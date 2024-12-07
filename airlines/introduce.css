@@ -1,0 +1,57 @@
+a {
+    font-size: 25px;
+    color: #fff;
+}
+
+button.apply {
+    width: 360px;
+    height: 100px;
+    background: linear-gradient(269.87deg, #FF1158 0%, #CB0000 100%);
+    border: none;
+    border-radius: 19px;
+    color: #fff;
+    box-shadow: 0px 0px 20px rgba(62, 185, 255, 0.65);
+}
+
+button.apply:hover {
+    width: 360px;
+    height: 100px;
+    background: linear-gradient(269.87deg, #CB0000 0%, #FF1158 100%);
+    border: none;
+    border-radius: 19px;
+    color: #fff;
+    box-shadow: 0px 0px 20px rgba(62, 185, 255, 0.65);
+}
+
+.body {
+    background: url(./1.png);
+    height: 800px;
+    box-shadow: 0px 0px 20px rgba(62, 185, 255, 0.65);
+}
+
+.table-container {
+    max-height: 500px;
+    overflow-y: auto;
+}
+
+.flight_num {
+    position: absolute;
+    font-size: 40px;
+    left: 120px;
+    top: 550px;
+    color: #fff;
+    background: #000;
+    border-radius: 10px;
+    opacity: 0.5;
+}
+
+.flight_time {
+    position: absolute;
+    font-size: 40px;
+    left: 120px;
+    top: 630px;
+    color: #fff;
+    background: #000;
+    border-radius: 10px;
+    opacity: 0.5;
+}

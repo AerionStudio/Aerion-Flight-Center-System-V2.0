@@ -1,0 +1,94 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.row {
+    padding: 20px;
+}
+
+.col {
+    height: 150px;
+    margin: 0 10px;
+    border-radius: 19px;
+    /* 调整间隙的大小 */
+}
+
+.icon {
+    color: #fff;
+    font-size: 60px;
+    text-align: left;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.body_1 {
+    padding: 20px;
+    /* 使用正数作为padding值 */
+    font-size: 65px;
+}
+
+.num {
+    background: linear-gradient(225deg, #7E2CD1 0%, #7C67FF 100%);
+    box-shadow: 0px 0px 20px 0px rgba(42, 38, 227, 0.55);
+}
+
+.flight_num {
+    background: linear-gradient(225deg, #2C82D1 0%, #67BFFF 100%);
+    box-shadow: 0px 0px 20px 0px rgba(62, 185, 255, 0.65);
+}
+
+.time {
+    background: linear-gradient(225deg, #06B757 0%, #01D66F 100%);
+    box-shadow: 0px 0px 20px 0px rgba(62, 255, 127, 0.65);
+}
+
+.tr {
+    background: linear-gradient(225deg, #FF1158 0%, #CB0000 100%);
+    box-shadow: 0px 0px 20px 0px #FF1158;
+}
+
+.col-8 {
+    max-height: 500px;
+    overflow: auto;
+    margin: 0 10px;
+    border-radius: 19px;
+}
+
+.col-4 {
+    max-height: 500px;
+    overflow: auto;
+    width: 385px;
+    margin: 0 10px;
+    border-radius: 19px;
+}
+
+.list {
+    background: linear-gradient(225deg, #FF1158 0%, #CB0000 100%);
+    box-shadow: 0px 0px 20px 0px #FF1158;
+}
+
+
+.list_1 {
+    background: linear-gradient(225deg, #7E2CD1 0%, #7C67FF 100%);
+    box-shadow: 0px 0px 20px 0px rgba(42, 38, 227, 0.55);
+}
+
+.list_body_title {
+    padding-top: 20px;
+    padding-left: 20px;
+    text-align: left;
+    color: #fff;
+    font-size: 35px;
+}
+
+.list_body {
+    background-color: #fff;
+}
+
+.little {
+    color: #fff;
+    font-size: 20px;
+    padding-left: 20px;
+    text-align: left;
+}

@@ -1,0 +1,96 @@
+.tittle {
+    height: 80px;
+    background: linear-gradient(269.87deg, #FF1158 0%, #CB0000 100%);
+    box-shadow: 0px 0px 20px 0px rgba(255, 17, 88, 1);
+    border-radius: 19px 19px 0px 0px;
+}
+
+h1.apply {
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 17px;
+    color: #fff;
+}
+
+.body {
+    height: 1644px;
+    background: #F5F5F5;
+    box-shadow: 0px 0px 20px 0px rgba(255, 17, 88, 1);
+    border-bottom-left-radius: 19px;
+    border-bottom-right-radius: 19px;
+}
+
+.activity_view {
+    padding-left: 10px;
+    height: 92px;
+    border-radius: 5px;
+    background: #E8E8E8;
+}
+
+h1.name {
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 17px;
+    font-size: 25px;
+    color: #000;
+}
+
+h1.time {
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 50px;
+    font-size: 20px;
+    color: #000;
+}
+
+button.apply {
+    cursor: pointer;
+    position: absolute;
+    margin-top: 30px;
+    right: 180px;
+    background: linear-gradient(257.51deg, #2C82D1 0%, #67BFFF 100%);
+    width: 50px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    box-shadow: 0px 0px 20px rgba(62, 185, 255, 0.65);
+}
+
+button.apply:hover {
+    cursor: pointer;
+    background: linear-gradient(269.87deg, #67BFFF 0%, #2C82D1 100%);
+    width: 50px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    box-shadow: 0px 0px 20px rgba(62, 185, 255, 0.65);
+}
+
+button.view {
+    cursor: pointer;
+    position: absolute;
+    margin-top: 30px;
+    right: 120px;
+    background: linear-gradient(257.51deg, #06B757 0%, #01D66F 100%);
+    width: 50px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    box-shadow: 0px 0px 20px 0px rgba(62, 255, 127, 0.65);
+
+}
+
+button.view:hover {
+    cursor: pointer;
+    background: linear-gradient(257.51deg, #01D66F 0%, #06B757 100%);
+    width: 50px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    box-shadow: 0px 0px 20px 0px rgba(62, 255, 127, 0.65);
+
+}
